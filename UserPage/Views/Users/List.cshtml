@@ -1,0 +1,27 @@
+﻿
+@model List<UserPage.Models.Entities.User>
+
+<h1>List of Users</h1>
+<table class="table">
+<thead>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th></th>
+    </tr>
+</thead>
+<tbody>
+    @foreach (var User in Model){
+  <tr>
+   <td>@User.Id</td>
+    <td>@User.Name</td>
+    <td>@User.Email</td>
+    
+     <td>
+       <a class="btn btn-primary"asp-controller="Users" asp-action="Edit" asp-route-id="@User.Id">Edit</a>
+      </td>
+  </tr>
+    }
+ </tbody>
+</table>

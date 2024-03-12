@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|c:\\users\\kisho\\desktop\\csharp\\userpage\\userpage\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|solutionrelative:userpage\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|c:\\users\\kisho\\desktop\\csharp\\userpage\\userpage\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|solutionrelative:userpage\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|c:\\users\\kisho\\desktop\\csharp\\userpage\\userpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|solutionrelative:userpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|c:\\users\\kisho\\desktop\\csharp\\userpage\\userpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|solutionrelative:userpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|c:\\users\\kisho\\desktop\\csharp\\userpage\\userpage\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|solutionrelative:userpage\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|c:\\users\\kisho\\desktop\\csharp\\userpage\\userpage\\views\\users\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|solutionrelative:userpage\\views\\users\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|c:\\users\\kisho\\desktop\\csharp\\userpage\\userpage\\models\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|solutionrelative:userpage\\models\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|c:\\users\\kisho\\desktop\\csharp\\userpage\\userpage\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|solutionrelative:userpage\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|c:\\users\\kisho\\desktop\\csharp\\userpage\\userpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|solutionrelative:userpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|c:\\users\\kisho\\desktop\\csharp\\userpage\\userpage\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DDDA2A-8051-4934-B6FA-7B94627F6DC4}|UserPage\\UserPage.csproj|solutionrelative:userpage\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "UserPage\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "UserPage\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T08:32:23.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserPage\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserPage\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:31:40.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UserPage\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "UserPage\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T08:32:06.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Views\\Users\\List.cshtml",
+              "RelativeDocumentMoniker": "UserPage\\Views\\Users\\List.cshtml",
+              "ToolTip": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Views\\Users\\List.cshtml",
+              "RelativeToolTip": "UserPage\\Views\\Users\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T08:57:05.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Models\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UserPage\\Models\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Models\\LoginForm.cs",
+              "RelativeToolTip": "UserPage\\Models\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:53:11.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UserPage\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "UserPage\\Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:15:17.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\appsettings.json",
+              "RelativeDocumentMoniker": "UserPage\\appsettings.json",
+              "ToolTip": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\appsettings.json",
+              "RelativeToolTip": "UserPage\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T10:26:57.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Program.cs",
+              "RelativeDocumentMoniker": "UserPage\\Program.cs",
+              "ToolTip": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Program.cs",
+              "RelativeToolTip": "UserPage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:25:20.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UserPage\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UserPage\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:14:01.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UserPage\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kisho\\Desktop\\csharp\\UserPage\\UserPage\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UserPage\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:17:37.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
